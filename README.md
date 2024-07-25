@@ -19,5 +19,6 @@ Pretrained weights will be able soon...
 <p float="left">
   <img src="result_img4.pdf" width="100%" />  
 </p>
+
 # Preprint
 [(https://arxiv.org/abs/2407.11637)]
