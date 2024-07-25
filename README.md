@@ -21,4 +21,4 @@ Pretrained weights will be able soon...
 </p>
 
 # Preprint
-[(https://arxiv.org/abs/2407.11637)]
+(https://arxiv.org/abs/2407.11637)
