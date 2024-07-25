@@ -11,7 +11,7 @@ Pretrained weights will be able soon...
 <p float="left">
   <img src="result_img2.pdf" width="100%" />  
 </p>
-(c)OPT-NIR:Aerial image & Aerial image
+(c)OPT-NIR: Aerial image & Aerial image
 <p float="left">
   <img src="result_img3.pdf" width="100%" />  
 </p>
