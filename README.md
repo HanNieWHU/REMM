@@ -3,19 +3,19 @@ The objective of this research is Rotation-Equivariant Framework for End-to-End 
 
 Pretrained weights will be able soon...
 # result
-(a)OPT-SAR
+(a)OPT-SAR：SEN2 & SEN1
 <p float="left">
   <img src="result_img1.pdf" width="100%" />  
 </p>
-(b)OPT-SAR
+(b)OPT-SAR：Google Earth & GF-3
 <p float="left">
   <img src="result_img2.pdf" width="100%" />  
 </p>
-(c)OPT-NIR
+(c)OPT-NIR:Aerial image & Aerial image
 <p float="left">
   <img src="result_img3.pdf" width="100%" />  
 </p>
-(d)OPT-NIR
+(d)OPT-NIR: Camera & Camera
 <p float="left">
   <img src="result_img4.pdf" width="100%" />  
 </p>
