@@ -20,4 +20,4 @@ Pretrained weights will be able soon...
   <img src="result_img4.pdf" width="100%" />  
 </p>
 # Preprint
-[https://arxiv.org/abs/2407.05278](https://arxiv.org/abs/2407.11637)
+[(https://arxiv.org/abs/2407.11637)]
