@@ -1,4 +1,4 @@
-# REMM:Rotation-Equivariant Framework for End-to-End Multimodal Image Matching
+# An End-to-End Rotation-Equivariant Framework for Optical and SAR Image Matching
 The objective of this research is Rotation-Equivariant Framework for End-to-End Multimodal Image Matching.
 It will be a long time for the release of full codes since the paper is under review.
 Pretrained weights will be able soon...
