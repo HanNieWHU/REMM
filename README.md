@@ -44,7 +44,7 @@ python demo.py --model-path Pretrained/SAR2/50.pt --img1 data/SAR2/opt_10_0_11.p
 ### Results
 
 | RMSE vs. rotation angle | Success rate (SR) vs. rotation angle |
-| -----------------------: | -----------------------------------: |
+| ----------------------- | ----------------------------------- |
 | ![RMSE](assets/RMSE.png) | ![SR](assets/SR.png)                 |
 
 ### Visual Results
