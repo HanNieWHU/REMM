@@ -5,7 +5,7 @@ Rotation-Equivariant Framework for End-to-End Multimodal Image Matching
 
 ## 📣 News
 
-- **[15/Apr/2026]** Release the code and checkpoint.
+- **[15/Apr/2026]** Release the code and checkpoint, please feel free to contact us if you encounter any problems.
 - **[11/Apr/2026]** ESWA Revise
 - **[2024]** [Arvix version](https://arxiv.org/abs/2407.11637) is released.
 
